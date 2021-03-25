@@ -1,0 +1,23 @@
+{
+    "restorant":[
+        {
+            "Id" :  "1",
+"Nom" :  "ONLY PIZZA",
+"Description" : "ONLY-PIZZA est une pizzeria spécialisée dans la PIZZA seulement, Située à Béjaia, elle vous accueille tous les jours.",
+
+"Adresse" : "Quartier seghir Béjaïa, Algérie",
+"Email" : "onlypizza06@gmail.com",
+"Réseaux sociaux" : "@PIZZERIAONLYPIZZA",  
+
+"Téléphone" : "0796 25 29 32",
+
+"Url1" : "https://www.facebook.com/PIZZERIAONLYPIZZA/photos/2698938536997594", 
+"Url2" : "https://www.facebook.com/PIZZERIAONLYPIZZA/photos/2718821961675918",
+"Url3" : "https://www.facebook.com/PIZZERIAONLYPIZZA/photos/2699854330239348",
+"Url4" : "https://www.facebook.com/PIZZERIAONLYPIZZA/photos/2430055080552609",
+
+"Longitude" : "36.74902092994029",
+"Latitude" :  "5.054821928994286"
+        }
+    ]
+}
